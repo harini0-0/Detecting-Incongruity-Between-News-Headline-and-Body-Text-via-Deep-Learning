@@ -4,8 +4,6 @@
 
 Fake news is a form of news consisting of deliberate disinformation or hoaxes spread via traditional news media or online social media.In this project, I have used different natural language processing (NLP) based machine learning and deep learning approaches including BERT to detect fake news from news headlines. Generally, a fake headline is a news headline which may read one way or state something as fact, but then the body of the article says something different. The Internet term for this type of misleading fake news is **“clickbait”** —headlines that catch a reader’s attention to make them click on the fake news. This type of fake news is misleading at best and untrue at worst.
 
-![Screenshot Predict](https://media.giphy.com/media/xT4ApznCZTtuBjmHHa/giphy.gif)
-
 In this project, I have extracted interesting patterns from the headline text using NLP and perform exploratory data analysis to provide useful insight about fake headlines by creating intuitive features. This project includes work detailed below:
 
 - Exploratory data analysis & Feature Engineering using NLP
