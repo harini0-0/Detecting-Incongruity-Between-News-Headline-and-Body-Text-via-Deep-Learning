@@ -21,6 +21,8 @@ The dataset consists of two CSV files. The first file named ```True.csv``` conta
 - **text**,
 - **type (REAL or FAKE)**
 - **the date the article was published on***
+- https://www.kaggle.com/watts2/glove6b50dtxt (To be downloaded too)
+
 
 ## Word Cloud of dataset
 
